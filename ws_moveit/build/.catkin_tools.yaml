@@ -1,0 +1,6 @@
+devel_space: /home/nimbl/ws_moveit/devel
+install: false
+install_space: /home/nimbl/ws_moveit/install
+profile: default
+source_space: /home/nimbl/ws_moveit/src
+workspace: /home/nimbl/ws_moveit
